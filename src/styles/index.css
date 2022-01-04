@@ -10,3 +10,20 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+ h3 {
+     color:rgb(44, 136, 167)
+    }
+ .burger {
+    margin-right: 1px;
+    padding-top: 2px; 
+    padding-bottom: 2px; 
+    }
+.sally {
+    max-width:100%
+}
+.stomp {
+    width: 70%;
+    margin:auto; 
+    background-color: rgb(230, 228, 228); 
+    border: solid, darkgray, 1px;
+}
